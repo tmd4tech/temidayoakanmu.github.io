@@ -9,10 +9,11 @@
 
 backend:
   name: github
-  repo: USERNAME/REPO          # <-- EDIT: e.g. temidayo/temidayo.github.io
+  repo: tmd4tech/tmd4tech.github.io          # <-- EDIT: e.g. temidayo/temidayo.github.io
   branch: main
   # Login needs a small OAuth broker (free). See README "Admin login".
-  base_url: https://YOUR-OAUTH-BROKER.example.com   # <-- EDIT after setup
+  base_url: https://temidayoakanmu.netlify.app   # <-- EDIT after setup
+  auth_endpoint: /api/auth
 
 # Where uploaded images go (used if you add image fields later)
 media_folder: "public/assets/uploads"
