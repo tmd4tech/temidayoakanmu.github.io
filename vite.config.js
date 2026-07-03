@@ -11,7 +11,7 @@ import react from "@vitejs/plugin-react";
 //  usually don't need to touch it. Override locally if you want.
 // ─────────────────────────────────────────────────────────────
 export default defineConfig({
-  base: process.env.VITE_BASE || "/",
+  base: "/",
   plugins: [react()],
   build: {
     outDir: "dist",
