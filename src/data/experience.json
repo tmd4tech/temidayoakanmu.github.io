@@ -1,11 +1,11 @@
 {
   "roles": [
     {
-      "role": "Energy Access Researcher",
+      "role": "Data Scientist (Energy Access Researcher)",
       "org": "Access to Energy Institute (A2EI)",
       "location": "Berlin, Germany",
       "dates": "May 2026 – Present",
-      "summary": "Working on the data backbone of electrification planning — turning continent-scale geospatial and energy datasets into the analyses that steer where infrastructure investment goes.",
+      "summary": "Working on the data backbone of electrification planning, turning continent-scale geospatial and energy datasets into the analyses that steer where infrastructure investment goes.",
       "points": [
         "Analyse large-scale geospatial and energy-access datasets to guide electrification and sustainable-development planning across underserved regions.",
         "Run spatial and statistical analyses that feed infrastructure assessment and evidence-based investment decisions for funders and implementers.",
